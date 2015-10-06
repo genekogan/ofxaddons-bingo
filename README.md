@@ -18,6 +18,8 @@ The following examples are currently included.
 
 **markovChain_macMouse** :: moves your mouse around according to a Markov Chain ([ofxMarkovChain](https://github.com/elaye/ofxMarkovChain) + [ofxMacMouse](https://github.com/2bbb/ofxMacMouse))
 
+**facetracker_box2d*** :: it blows bubbles out of your eyes ([FaceTracker](https://github.com/kylemcdonald/ofxFaceTracker) + [ofxBox2d](https://github.com/vanderlin/ofxBox2d))
+
 
 #### Install
 

@@ -7,3 +7,5 @@ git clone https://github.com/kylemcdonald/ofxCcv
 git clone https://github.com/DHaylock/ofxInstagram
 git clone https://github.com/2bbb/ofxMacMouse
 git clone https://github.com/elaye/ofxMarkovChain
+git clone https://github.com/kylemcdonald/ofxFaceTracker.git
+git clone https://github.com/vanderlin/ofxBox2d.git
