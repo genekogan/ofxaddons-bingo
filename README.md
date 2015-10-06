@@ -11,7 +11,9 @@ There are 1000+ libraries made for openFrameworks which do vastly disparate thin
 The following examples are currently included.
 
 **glitch_japan** :: glitching the flag of Japan ([ofxPostGlitch](https://github.com/maxillacult/ofxPostGlitch) + [ofxJapan](https://github.com/motoishmz/ofxJapan))
+
 **libccv_instagram** :: making Instagram searches from image classifications of webcam image (([ofxCcv](https://github.com/kylemcdonald/ofxCcv) + [ofxInstagram](https://github.com/DHaylock/ofxInstagram))
+
 **markovChain_macMouse** :: moves your mouse around according to a Hidden Markov Model ()
 
 More to come.
