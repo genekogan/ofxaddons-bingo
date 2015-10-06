@@ -16,7 +16,7 @@ The following examples are currently included.
 
 **libccv_instagram** :: making Instagram searches from image classifications of webcam images ([ofxCcv](https://github.com/kylemcdonald/ofxCcv) + [ofxInstagram](https://github.com/DHaylock/ofxInstagram))
 
-**markovChain_macMouse** :: moves your mouse around according to a Hidden Markov Model ([ofxMarkovChain](https://github.com/elaye/ofxMarkovChain) + [ofxMacMouse](https://github.com/2bbb/ofxMacMouse))
+**markovChain_macMouse** :: moves your mouse around according to a Markov Chain ([ofxMarkovChain](https://github.com/elaye/ofxMarkovChain) + [ofxMacMouse](https://github.com/2bbb/ofxMacMouse))
 
 
 #### Install
