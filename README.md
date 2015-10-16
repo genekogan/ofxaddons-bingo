@@ -18,14 +18,16 @@ The following examples are currently included.
 
 **markovChain_macMouse** :: moves your mouse around according to a Markov Chain ([ofxMarkovChain](https://github.com/elaye/ofxMarkovChain) + [ofxMacMouse](https://github.com/2bbb/ofxMacMouse))
 
-**facetracker_box2d*** :: it blows bubbles out of your eyes ([ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker) + [ofxBox2d](https://github.com/vanderlin/ofxBox2d))
+**facetracker_box2d** :: it blows bubbles out of your eyes ([ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker) + [ofxBox2d](https://github.com/vanderlin/ofxBox2d))
+
+**filterbank_notifications** :: send OSX a notification every time you sing a note ([ofxFilterbank](https://github.com/leozimmerman/ofxFilterbank)) + [ofxNotifications](https://github.com/bakercp/ofxNotifications))
 
 
 #### Install
 
 Clone this repo into your 'apps' folder, so that 'ofxaddons-bingo' is inside 'apps'. Then install the required addons (or at least the ones from the examples you wish to run).
 
-This is a complete list of all the addons used in this collection. Each project uses two or more of the following: [ofxPostGlitch](https://github.com/maxillacult/ofxPostGlitch), [ofxJapan](https://github.com/motoishmz/ofxJapan), [ofxCcv](https://github.com/kylemcdonald/ofxCcv), [ofxInstagram](https://github.com/DHaylock/ofxInstagram), [ofxMarkovChain](https://github.com/elaye/ofxMarkovChain), [ofxMacMouse](https://github.com/2bbb/ofxMacMouse), [ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker), [ofxBox2d](https://github.com/vanderlin/ofxBox2d), [ofxCv](https://github.com/kylemcdonald/ofxCv)
+This is a complete list of all the addons used in this collection. Each project uses two or more of the following: [ofxPostGlitch](https://github.com/maxillacult/ofxPostGlitch), [ofxJapan](https://github.com/motoishmz/ofxJapan), [ofxCcv](https://github.com/kylemcdonald/ofxCcv), [ofxInstagram](https://github.com/DHaylock/ofxInstagram), [ofxMarkovChain](https://github.com/elaye/ofxMarkovChain), [ofxMacMouse](https://github.com/2bbb/ofxMacMouse), [ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker), [ofxBox2d](https://github.com/vanderlin/ofxBox2d), [ofxCv](https://github.com/kylemcdonald/ofxCv), [ofxFilterbank](https://github.com/leozimmerman/ofxFilterbank), [ofxNotifications](https://github.com/bakercp/ofxNotifications)
 
 Or run this script from the repo's root directory:
 
