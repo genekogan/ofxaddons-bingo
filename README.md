@@ -22,12 +22,13 @@ The following examples are currently included.
 
 **filterbank_notifications** :: send OSX a notification every time you sing a note ([ofxFilterbank](https://github.com/leozimmerman/ofxFilterbank)) + [ofxNotifications](https://github.com/bakercp/ofxNotifications))
 
+**imageSegmentation_box2d** :: breaks an image into segments and turns them into box2d physics-reactive objects ([ofxImageSegmentation](https://github.com/obviousjim/ofxImageSegmentation) + [ofxBox2d](https://github.com/vanderlin/ofxBox2d))
 
 #### Install
 
 Clone this repo into your 'apps' folder, so that 'ofxaddons-bingo' is inside 'apps'. Then install the required addons (or at least the ones from the examples you wish to run).
 
-This is a complete list of all the addons used in this collection. Each project uses two or more of the following: [ofxPostGlitch](https://github.com/maxillacult/ofxPostGlitch), [ofxJapan](https://github.com/motoishmz/ofxJapan), [ofxCcv](https://github.com/kylemcdonald/ofxCcv), [ofxInstagram](https://github.com/DHaylock/ofxInstagram), [ofxMarkovChain](https://github.com/elaye/ofxMarkovChain), [ofxMacMouse](https://github.com/2bbb/ofxMacMouse), [ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker), [ofxBox2d](https://github.com/vanderlin/ofxBox2d), [ofxCv](https://github.com/kylemcdonald/ofxCv), [ofxFilterbank](https://github.com/leozimmerman/ofxFilterbank), [ofxNotifications](https://github.com/bakercp/ofxNotifications)
+This is a complete list of all the addons used in this collection. Each project uses two or more of the following: [ofxPostGlitch](https://github.com/maxillacult/ofxPostGlitch), [ofxJapan](https://github.com/motoishmz/ofxJapan), [ofxCcv](https://github.com/kylemcdonald/ofxCcv), [ofxInstagram](https://github.com/DHaylock/ofxInstagram), [ofxMarkovChain](https://github.com/elaye/ofxMarkovChain), [ofxMacMouse](https://github.com/2bbb/ofxMacMouse), [ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker), [ofxBox2d](https://github.com/vanderlin/ofxBox2d), [ofxCv](https://github.com/kylemcdonald/ofxCv), [ofxFilterbank](https://github.com/leozimmerman/ofxFilterbank), [ofxNotifications](https://github.com/bakercp/ofxNotifications), [ofxImageSegmentation](https://github.com/obviousjim/ofxImageSegmentation)
 
 Or run this script from the repo's root directory:
 
