@@ -12,3 +12,6 @@ git clone https://github.com/vanderlin/ofxBox2d.git
 git clone https://github.com/kylemcdonald/ofxCv.git
 git clone https://github.com/leozimmerman/ofxFilterbank.git
 git clone https://github.com/bakercp/ofxNotifications.git
+git clone https://github.com/obviousjim/ofxImageSegmentation.git
+git clone https://github.com/i-n-g-o/ofxOneEuroFilter.git
+git clone https://github.com/arturoc/ofxPlaymodes.git
